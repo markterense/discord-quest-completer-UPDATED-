@@ -1,1 +1,0 @@
-# discord-quest-completer-UPDATED-
